@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(0, 136, 129);
+    justify-content: center;
+  } 
+  .box-container{
+    justify-content: center;
+    text-align: center;
+    font-family: monospace;
+  }
+
+.bakim-suresi{
+    font-family: monospace;
+}
